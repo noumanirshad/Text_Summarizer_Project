@@ -1,1 +1,10 @@
-# Text_Summarizer_Project
+# End to End Text_Summarizer_Project
+## WorkFlow Text_Summarizer
+Update config.yaml
+Update params.yaml
+Update entity
+Update the configuration manager in src config
+update the conponents
+update the pipeline
+update the main.py
+update the app.py
